@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vepa</h1>
 <h3 align="center">A passionate Application Developer</h3>
 
-- 🔭 I’m currently working on **Books android app**
+- 🔭 I’m currently working on **Books android Mobile app**
 
 - 🌱 I’m currently learning **Flutter, Django**
 
