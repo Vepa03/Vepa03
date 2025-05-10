@@ -23,7 +23,7 @@
   
  <br/>
     <p align="center">
-    <a href="https://github.com/Suleymanmalikov/github-readme-stats"><img alt="Suleymanguly's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Suleymanmalikov&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Suleymanmalikov/github-readme-stats"><img alt="Vepa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Suleymanmalikov&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Suleymanmalikov/github-readme-stats"><img alt="Suleymanguly's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleymanmalikov&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
