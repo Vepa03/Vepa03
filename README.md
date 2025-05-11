@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.instagram.com/vepa03_/](https://www.instagram.com/vepa03_/)
 
-- 💬 Ask me about **dart, python, Flutter, Django**
+- 💬 Ask me about **dart, python, Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
