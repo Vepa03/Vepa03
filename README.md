@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Books android Mobile app**
 
-- 🌱 I’m currently learning **Flutter, Django**
+- 🌱 I’m currently learning **Flutter, Django, React**
 
 - 👨‍💻 All of my projects are available and you can download it at [babayev.vercel.app](babayev.vercel.app)
 
