@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available and you can download it at [babayev.vercel.app](babayev.vercel.app)
 
-- 📝 I regularly write articles on [https://www.instagram.com/vepa03_/](https://www.instagram.com/vepa03_/)
+- 📝 I regularly write articles on [https://www.instagram.com/vepa03_/](https://www.instagram.com/vepa03_/ )
 
 - 💬 Ask me about **dart, python, Flutter**
 
