@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Django, React**
 
-- 👨‍💻 All of my projects are available and you can download them at [babayev.vercel.app](https://babayev.vercel.app)
+- 👨‍💻 All of my projects are available and you can download them at [vepababayev.com](https://vepababayev.com)
 
 - 📝 I regularly share updates on [Instagram](https://www.instagram.com/vepa03_/)
 
