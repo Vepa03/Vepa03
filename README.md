@@ -9,7 +9,7 @@
 
 - 📝 I regularly share updates on [Instagram](https://www.instagram.com/vepa03_/)
 
-- 🚀 I am creating a **Turkmen Adam Atlary Application**
+- 🚀 I am creating a **Altyn Gorech Education Center**
 
 - 💬 Ask me about **Dart, Python, Flutter**
 
