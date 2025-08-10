@@ -11,7 +11,7 @@
 
 - 🚀 I am creating a **Altyn Gorech Education Center**
 
-- 💬 Ask me about **Dart, Python, Flutter**
+- 💬 Ask me about **Dart, Python, Flutter, Firebase**
 
 ---
 
